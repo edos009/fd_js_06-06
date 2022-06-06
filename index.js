@@ -55,3 +55,11 @@ while (true) {
   }
 }
 */
+
+//! Цыкл do while
+/*
+do {
+  //iteration
+} while (condition);
+*/
+
